@@ -1,7 +1,8 @@
 # Assalamualaikum<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to my GitHub Profile
 
 # I am Md. Manzum Rahman
-### I am a student of 7th Grade in Faujdarhat Cadet College, *Bangladesh* .I am 14 years old. Coding is my hobby. I spend most of my free time in it. I mainly interested in machine learning , Artificial Intelligence and all those cool stuff. I also like competetive programming. I also like to develope websites, though I mostly  work with backend stuff ,I also play around with front end development. 
+### I am a student of 7th Grade in Faujdarhat Cadet College, *Bangladesh* .I am 14 years old. Coding is my hobby. I spend most of my free time in it. I mainly interested in machine learning , Artificial Intelligence and all those cool stuff. I also like competetive programming. I tried game development too and know a little about it . I also like to develope websites, though I mostly  work with backend stuff ,I also play around with front end development.
+
 ### **In short, I like to do a bit of everything I like :)**
   
 
