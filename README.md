@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Library-Scikit%20Learn-blue)
 ![](https://img.shields.io/badge/Library-Pygame-blue)
 ## Miscellanious tools
-![](https://img.shields.io/badge/Version%2Control%2System-Git-blue)
+![](https://img.shields.io/badge/Version%20Control%20System-Git-blue)
 ![](https://img.shields.io/badge/Database-MySQL-blue)
 
 # My Stats
