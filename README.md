@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Language-CSS-blue)
 ![](https://img.shields.io/badge/Language-Java%20Script-blue)
 ![](https://img.shields.io/badge/Language-Python-blue)
-![](https://img.shields.io/badge/Language-C#-blue)
+![](https://img.shields.io/badge/Language-C%20Sharp-blue)
 ## Frameworks and Libraries
 ![](https://img.shields.io/badge/Framework-Flask-blue)
 ![](https://img.shields.io/badge/Framework-Bootsrap-blue)
