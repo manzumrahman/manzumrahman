@@ -35,4 +35,4 @@
 
 
 # **Contact Me** :
-Mail Me: **mailto:manzumrahamn@gmail.com**
+Mail Me: **manzumrahamn@gmail.com**
